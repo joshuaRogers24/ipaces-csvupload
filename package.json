@@ -1,0 +1,26 @@
+{
+  "name": "ipaces-csvupload",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Function to update a Google Sheet with data from a csv in Google Storage",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuaRogers24/ipaces-csvupload.git"
+  },
+  "author": "Josh Rogers-Pastio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuaRogers24/ipaces-csvupload/issues"
+  },
+  "homepage": "https://github.com/joshuaRogers24/ipaces-csvupload#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.16.0",
+    "@typescript-eslint/parser": "^5.16.0",
+    "eslint": "^8.11.0",
+    "typescript": "^4.6.2"
+  }
+}
